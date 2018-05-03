@@ -26,6 +26,7 @@
           <ul class="nav navbar-nav">
 			<li class="active"><a href="#" title="">Active Link</a></li>
 			<li><?=anchor('news','News')?></li>
+			<li><?=anchor('pics','Pics')?></li>
           </ul>
         </div>
       </div>
